@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 dsafawsdf
 <<<<<<< HEAD
 Yaduvir Singh
 =======
 hello world
+>>>>>>> lol
+=======
+//hello world
+#include <iostream>
+using namespace std;
+int main()
+{
+	return 0;
+}
 >>>>>>> lol
