@@ -1,2 +1,6 @@
 dsafawsdf
+<<<<<<< HEAD
 Yaduvir Singh
+=======
+hello world
+>>>>>>> lol
