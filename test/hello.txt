@@ -5,10 +5,7 @@ int main()
 {
 	return 0;
 }
-<<<<<<< HEAD
-=======
 void sum(int a,int b)
 {
 	return a+b;
 }
->>>>>>> lol
