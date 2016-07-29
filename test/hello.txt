@@ -18,3 +18,4 @@ int mul(int a,int b)
 	cout<<"mul";
 	return a*b;
 }
+int rem(int a,int b)
