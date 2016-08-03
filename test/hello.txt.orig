@@ -1,0 +1,27 @@
+//hello world
+#include <iostream>
+using namespace std;
+int main()
+{
+	return 0;
+}
+void sum(int a,int b)
+{
+	return a+b;
+}
+void sub(int a,int b)
+{
+	return a-b;
+}
+int mul(int a,int b)
+{
+	cout<<"mul";
+	return a*b;
+}
+<<<<<<< d04147dff9b2cca95ca0d3f4149b769c2873d4eb
+int rem(int a,int b)
+=======
+int div();
+
+int xyz();
+>>>>>>> sdf
